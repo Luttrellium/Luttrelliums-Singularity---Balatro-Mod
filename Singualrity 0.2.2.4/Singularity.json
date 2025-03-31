@@ -1,0 +1,14 @@
+{
+	"id": "Luttrellium's Singulairty",
+	"name": "Singularity",
+	"author": ["Luttrellium"],
+	"description": "Adds some space themed Jokers, mostly centred around the legendary 'Singularity' Joker.",
+	"prefix": "LSingle",
+	"main_file": "Singularity.lua",
+	"priority": 0,
+	"version": "0.2.2.4",
+	"dependencies": [
+        "Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+    ]
+}
